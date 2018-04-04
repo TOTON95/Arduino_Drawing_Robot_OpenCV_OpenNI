@@ -8,6 +8,8 @@ The C Sharp program displays an blank canvas where the user can draw anything an
 
 There is an option where it can be used the Kinect sensor to draw the coordinates using the depth sensor and the color camera to draw, this is possible thanks to OpenCV and OpenNI. This program its coded in C++ and dumps the coordinates in the same text file.
 
+There is a simulator that I used to check the functionality of the robotic arm.
+
 _This project still in progress, constructive critiques and suggestions are welcome._ 
 
 ## Materials
@@ -29,6 +31,7 @@ _This project still in progress, constructive critiques and suggestions are welc
 <p align="center"><img src="https://raw.githubusercontent.com/TOTON95/Arduino_Drawing_Robot_OpenCV_OpenNI/master/images/Imagen1.jpg"></p>
 <p align="center"><img src="https://raw.githubusercontent.com/TOTON95/Arduino_Drawing_Robot_OpenCV_OpenNI/master/images/ULSA_comp.png"></p>
 <p align="center"><img src="https://raw.githubusercontent.com/TOTON95/Arduino_Drawing_Robot_OpenCV_OpenNI/master/images/kinect.jpg"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/TOTON95/Arduino_Drawing_Robot_OpenCV_OpenNI/master/images/simulator.jpg"></p>
 
 
 
