@@ -1,0 +1,14 @@
+c:\users\toton\documents\visual studio 2013\Projects\Simulador\Simulador\bin\Debug\Simulador.exe.config
+c:\users\toton\documents\visual studio 2013\Projects\Simulador\Simulador\bin\Debug\Simulador.exe
+c:\users\toton\documents\visual studio 2013\Projects\Simulador\Simulador\bin\Debug\Simulador.pdb
+c:\users\toton\documents\visual studio 2013\Projects\Simulador\Simulador\obj\Debug\MainWindow.baml
+c:\users\toton\documents\visual studio 2013\Projects\Simulador\Simulador\obj\Debug\MainWindow.g.cs
+c:\users\toton\documents\visual studio 2013\Projects\Simulador\Simulador\obj\Debug\App.g.cs
+c:\users\toton\documents\visual studio 2013\Projects\Simulador\Simulador\obj\Debug\Simulador_MarkupCompile.cache
+c:\users\toton\documents\visual studio 2013\Projects\Simulador\Simulador\obj\Debug\Simulador.g.resources
+c:\users\toton\documents\visual studio 2013\Projects\Simulador\Simulador\obj\Debug\Simulador.Properties.Resources.resources
+c:\users\toton\documents\visual studio 2013\Projects\Simulador\Simulador\obj\Debug\Simulador.csproj.GenerateResource.Cache
+c:\users\toton\documents\visual studio 2013\Projects\Simulador\Simulador\obj\Debug\Simulador.exe
+c:\users\toton\documents\visual studio 2013\Projects\Simulador\Simulador\obj\Debug\Simulador.pdb
+C:\Users\TOTON\Documents\Visual Studio 2013\Projects\Simulador\Simulador\obj\Debug\Simulador.csprojResolveAssemblyReference.cache
+C:\Users\TOTON\documents\visual studio 2013\Projects\Simulador\Simulador\obj\Debug\Simulador_Content.g.cs

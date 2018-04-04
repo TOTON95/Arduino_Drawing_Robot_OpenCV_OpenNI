@@ -1,0 +1,19 @@
+﻿<Window x:Class="Simulador.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Simulador de Brazo Robótico" Height="735" Width="1280" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Canvas Name="Dibujo" x:FieldModifier="public">
+            <Canvas.Background>
+                <SolidColorBrush Color="White" Opacity="0"></SolidColorBrush>
+            </Canvas.Background>
+            <Slider x:Name="Slider" Canvas.Left="25" Canvas.Top="26" Height="27" Width="208" ValueChanged="Slider_ValueChanged" Maximum="180"/>
+            <Label x:Name="th1" Content="TH1:" Canvas.Left="980" Canvas.Top="26"/>
+            <Label x:Name="th2" Content="TH2:" Canvas.Left="980" Canvas.Top="59"/>
+            <Slider x:Name="Slider_Copy" Canvas.Left="25" Canvas.Top="58" Height="27" Width="208" ValueChanged="Slider_ValueChanged" Maximum="180"/>
+            <Button x:Name="btn_limpiar" Content="Limpiar" Canvas.Left="1086" Canvas.Top="621" Width="103" Click="btn_limpiar_Click" Height="22"/>
+            <Button x:Name="btn_exportar_excel" Content="Exportar a Excel" Canvas.Left="1086" Canvas.Top="575" Width="103" Click="btn_exportar_excel_Click" />
+            <Canvas x:Name="canGraph" Height="200" Canvas.Left="934" Canvas.Top="119" Width="300" Background="Snow"/>
+        </Canvas>
+    </Grid>
+</Window>
