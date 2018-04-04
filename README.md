@@ -21,6 +21,15 @@ _This project still in progress, constructive critiques and suggestions are welc
 
 ## Images
 
+<p align="center"><img src="https://raw.githubusercontent.com/TOTON95/Arduino_Drawing_Robot_OpenCV_OpenNI/master/images/Brazo_hd.png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/TOTON95/Arduino_Drawing_Robot_OpenCV_OpenNI/master/images/drawing.gif"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/TOTON95/Arduino_Drawing_Robot_OpenCV_OpenNI/master/images/20161018_211314.jpg"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/TOTON95/Arduino_Drawing_Robot_OpenCV_OpenNI/master/images/20161129_081711.jpg"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/TOTON95/Arduino_Drawing_Robot_OpenCV_OpenNI/master/images/20161129_081729.jpg"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/TOTON95/Arduino_Drawing_Robot_OpenCV_OpenNI/master/images/Imagen1.jpg"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/TOTON95/Arduino_Drawing_Robot_OpenCV_OpenNI/master/images/ULSA_comp.png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/TOTON95/Arduino_Drawing_Robot_OpenCV_OpenNI/master/images/kinect.jpg"></p>
+
 
 
 
